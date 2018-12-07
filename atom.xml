@@ -5,9 +5,9 @@
   <subtitle>believe in god, fear of god.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://cabancey.com/"/>
   <updated>2018-12-07T10:56:04.829Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://cabancey.com/</id>
   
   <author>
     <name>Cabancey</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>my test notebook</title>
-    <link href="http://yoursite.com/2018/12/07/my-test-notebook/"/>
-    <id>http://yoursite.com/2018/12/07/my-test-notebook/</id>
+    <link href="http://cabancey.com/2018/12/07/my-test-notebook/"/>
+    <id>http://cabancey.com/2018/12/07/my-test-notebook/</id>
     <published>2018-12-07T10:55:05.000Z</published>
     <updated>2018-12-07T10:56:04.829Z</updated>
     
@@ -27,17 +27,17 @@
     
     </summary>
     
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+      <category term="test" scheme="http://cabancey.com/categories/test/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://cabancey.com/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/28/hello-world/"/>
-    <id>http://yoursite.com/2018/11/28/hello-world/</id>
+    <link href="http://cabancey.com/2018/11/28/hello-world/"/>
+    <id>http://cabancey.com/2018/11/28/hello-world/</id>
     <published>2018-11-28T08:49:17.735Z</published>
     <updated>2018-11-28T08:49:17.735Z</updated>
     
