@@ -473,6 +473,10 @@
           
 
   
+    <div id="gitalk-container">
+    </div>
+    
+  
 
 
 
@@ -800,6 +804,32 @@
 
 
 
+
+
+  
+  
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/gitalk@1.4.0/dist/gitalk.min.js"></script>
+
+  
+  
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1.4.0/dist/gitalk.css">
+
+  
+  
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/js-md5@0.7.3/src/md5.min.js"></script>
+    
+   <script type="text/javascript">
+        var gitalk = new Gitalk({
+          clientID: '476e296ba39ca192f0c7',
+          clientSecret: '58157f7428d0fd604fa111b2ec491d2aaa588c01',
+          repo: 'cabancey.github.io',
+          owner: 'cabancey',
+          admin: ['cabancey'],
+          id: md5(location.pathname),
+          distractionFreeMode: 'true'
+        })
+        gitalk.render('gitalk-container')           
+       </script>
 
   
 
