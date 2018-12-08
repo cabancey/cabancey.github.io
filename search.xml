@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[my test notebook]]></title>
-    <url>%2F2018%2F12%2F07%2Fmy-test-notebook%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[Unity and Autodesk's Revit]]></title>
+    <url>%2F2018%2F12%2F08%2FUnity-and-Autodesk-s-Revit%2F</url>
+    <content type="text"><![CDATA[Unity and RevitUnity 与 Autodesk：两者旗下软件深度合作提升互操作性在今年11月上旬官方发出消息，Unity 将与 Autodesk 公司进行合作，实现 Revit 和 VRED 与 Unity 之间的数据互操作性，并在 Unity 内集成 Shotgun 模板管理功能。在 UNity 的官网可以看到此次合作的主要目标： 实现BIM数据可视化。 将 Revit 和 3ds Max 模型光滑导入 Unity，提高模型传递效率以更快地发布交互式地 3D 内容，主要通过提升工程相关人员交互性从而加快决策制定并消除设计缺陷，提升建筑工程行业的效率。 提升汽车和运输行业的购买体验。 VRED 文件将能平滑地导入 Unity，创建独一无二地交互式3D体验。3.缩短媒体和娱乐行业制作时间。推出 Shotgun 模板管理资源并解锁关键制作流程，缩短制作时间。 动态完善 3D 模型的美术师工具。 将 Maya、 3ds Max 美术和设计内容无缝导入/导出 Unity 完成快速迭代，支持 Autodesk 的 Stingray PBS 材质和 Allegorithmic Substances*。5.至于第五项不是新的功能，这里就不做转述。 这些新功能的官方公布上线时间为 19 年秋天。期待两家公司之间的合作，个人非常期待第一项功能，实现 Revit 与 Unity 模型数据的互操作性，对 BIM 模型的可视化与仿真有很大的帮助。由于本人只对 Revit 和 Unity 有一点了解，此处将主要说这两者间的故事。 Revit 与 UnityUnity 支持 FBX 模型的导入，因此一直以来如果需要将 Revit 文件导入 Unity，一般先将文件转换为 FBX 格式，这一过程会伴随着部分内容的丢失以及其他问题，通过 3ds Max 进行人工修理，当然这是个折磨人的过程，最后再将修理后的 FBX 文件导入 Unity 中。你也许会觉得这个过程是比较简单可操作的，当然，在项目确定定项并完成时这么操作只是一次性工程，但当在项目设计之初就需要将 Revit 模型导入 Unity 进行交互式沟通时，这一流程将变得极为恶心，消耗员工的工作热情。现实中在这种情况下大多数团队的操作方式是为了满足甲方的要求，建立两份模型，即单独组建一个团队创建 3ds Max模型，省掉前面从 Revit 转换 FBX 这一过程，并掩盖 3ds Max 模型。这一做法在操作上看试是一种曲折但聪明的解决之法，其实是具有欺骗性的，当然这也是乙方的无奈之举。Revit 与 3ds Max 模型是存在差别的，虽然 3ds Max 团队都会说一摸一样，但你只能说在甲方的显示要求下是一样的，这个问题我只能以较低眼光的角度发表我的观点，此处不讨论。 通过上述阐述的问题，你应该也想到了 Revit 与 Unity 这一合作将产生的改变，至少这一工作流程将会发生变化。不过这又涉及到另外的问题，基本 BIM 软件都有 Fuzor 和 Lumion 等配套的渲染软件，Autodesk 与 Bentley 软件也都有自己配套的仿真软件，这些软件也为大多数 BIM 软件使用者所使用，而对于 Unity 与 UE4 等游戏引擎基本没有团队使用，目前遇到过的团队有使用的话也基本使用 UE4，不过功能也局限于 VR 与 视频动画制作。极少极少 BIM 团队会使用 Unity，不过个人感觉更应该是自己工作年限较低与交流讨论会参与过少局限了自己的视听。 当然这是我个人的博客，虽然 BIM 从业者使用 Unity 较少，但我仍然十分看好 Autodesk 与 Unity 的这次合作，这会对 Revit 软件 BIM 模型的预演交互产生极大的变化。同时 Unity 是一款出色的游戏引擎，其自身强大的物理引擎与脚本开发功能将会大幅提升 BIM 模型的仿真价值，搭配 Unity 的多平台发布功能，将一定程度改变工程相关人员的交互方式。 现在如果想实现 Revit、Catia 等 BIM 软件模型与 Unity 的平滑导入，是可以采取一个更聪明的方法， 17 年 piXYZ 发布了两款针对 CAD 文件导入 Unity 的插件： piXYZPlugin 和 piXYZ studio。 今年 11 月 Tridify 发布了针对 IFC 文件的 Unity 导入插件： Tridify BIM Tools。 这两个公司的插件能较好的解决很多文件导入的问题，且速度理想，可操作性较强，并都支持脚本开发。（今天不做深入分享） 就先写到这吧，每周都得写点东西，下次想更新时再更新本篇文章，不过如果你对上面部分内容感兴趣，可以留言，我将在接下来的分享针对具体情况做进一步分享。]]></content>
       <categories>
-        <category>test</category>
+        <category>BIM</category>
       </categories>
       <tags>
-        <tag>test</tag>
+        <tag>Unity</tag>
+        <tag>Revit</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F11%2F28%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>

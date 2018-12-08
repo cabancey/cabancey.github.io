@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cabancey.com/"/>
-  <updated>2018-12-07T10:56:04.829Z</updated>
+  <updated>2018-12-08T17:26:43.173Z</updated>
   <id>http://cabancey.com/</id>
   
   <author>
@@ -17,41 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my test notebook</title>
-    <link href="http://cabancey.com/2018/12/07/my-test-notebook/"/>
-    <id>http://cabancey.com/2018/12/07/my-test-notebook/</id>
-    <published>2018-12-07T10:55:05.000Z</published>
-    <updated>2018-12-07T10:56:04.829Z</updated>
+    <title>Unity and Autodesk&#39;s Revit</title>
+    <link href="http://cabancey.com/2018/12/08/Unity-and-Autodesk-s-Revit/"/>
+    <id>http://cabancey.com/2018/12/08/Unity-and-Autodesk-s-Revit/</id>
+    <published>2018-12-08T15:07:15.000Z</published>
+    <updated>2018-12-08T17:26:43.173Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Unity-and-Revit"><a href="#Unity-and-Revit" class="headerlink" title="Unity and Revit"></a>Unity and Revit</h1><h2 id="Unity-与-Autodesk：两者旗下软件深度合作提升互操作性"><a href="#Unity-与-Autodesk：两者旗下软件深度合作提升互操作性" class="headerlink" title="Unity 与 Autodesk：两者旗下软件深度合作提升互操作性"></a>Unity 与 Autodesk：两者旗下软件深度合作提升互操作性</h2><p>在今年11月上旬官方发出消息，Unity 将与 Autodesk 公司进行合作，实现 Revit 和 VRED 与 Unity 之间的数据互操作性，并在 Unity 内集成 Shotgun 模板管理功能。在 UNity 的官网可以看到此次合作的主要目标：</p><ol><li>实现BIM数据可视化。<blockquote><p>将 Revit 和 3ds Max 模型光滑导入 Unity，提高模型传递效率以更快地发布交互式地 3D 内容，主要通过提升工程相关人员交互性从而加快决策制定并消除设计缺陷，提升建筑工程行业的效率。</p></blockquote></li></ol><a id="more"></a><ol start="2"><li>提升汽车和运输行业的购买体验。<blockquote><p>VRED 文件将能平滑地导入 Unity，创建独一无二地交互式3D体验。<br>3.缩短媒体和娱乐行业制作时间。<br>推出 Shotgun 模板管理资源并解锁关键制作流程，缩短制作时间。</p></blockquote></li><li>动态完善 3D 模型的美术师工具。<blockquote><p>将 Maya、 3ds Max 美术和设计内容无缝导入/导出 Unity 完成快速迭代，支持 Autodesk 的 Stingray PBS 材质和 Allegorithmic Substances*。<br>5.至于第五项不是新的功能，这里就不做转述。</p></blockquote></li></ol><p>这些新功能的官方公布上线时间为 19 年秋天。期待两家公司之间的合作，个人非常期待第一项功能，实现 Revit 与 Unity 模型数据的互操作性，对 BIM 模型的可视化与仿真有很大的帮助。由于本人只对 Revit 和 Unity 有一点了解，此处将主要说这两者间的故事。</p><h2 id="Revit-与-Unity"><a href="#Revit-与-Unity" class="headerlink" title="Revit 与 Unity"></a>Revit 与 Unity</h2><p>Unity 支持 FBX 模型的导入，因此一直以来如果需要将 Revit 文件导入 Unity，一般先将文件转换为 FBX 格式，这一过程会伴随着部分内容的丢失以及其他问题，通过 3ds Max 进行人工修理，当然这是个折磨人的过程，最后再将修理后的 FBX 文件导入 Unity 中。你也许会觉得这个过程是比较简单<br>可操作的，当然，在项目确定定项并完成时这么操作只是一次性工程，但当在项目设计之初就需要将 Revit 模型导入 Unity 进行交互式沟通时，这一流程将变得极为恶心，消耗员工的工作热情。现实中在这种情况下大多数团队的操作方式是为了满足甲方的要求，建立两份模型，即单独组建一个团队创建 3ds Max模型，<br>省掉前面从 Revit 转换 FBX 这一过程，并掩盖 3ds Max 模型。这一做法在操作上看试是一种曲折但聪明的解决之法，其实是具有欺骗性的，当然这也是乙方的无奈之举。Revit 与 3ds Max 模型是存在差别的，虽然 3ds Max 团队都会说一摸一样，但你只能说在甲方的显示要求下是一样的，这个问题我只能以较低眼光<br>的角度发表我的观点，此处不讨论。</p><p>通过上述阐述的问题，你应该也想到了 Revit 与 Unity 这一合作将产生的改变，至少这一工作流程将会发生变化。不过这又涉及到另外的问题，基本 BIM 软件都有 Fuzor 和 Lumion 等配套的渲染软件，Autodesk 与 Bentley 软件也都有自己配套的仿真软件，这些软件也为大多数 BIM 软件使用者所使用，而对于 Unity 与 UE4 等游戏引擎基本<br>没有团队使用，目前遇到过的团队有使用的话也基本使用 UE4，不过功能也局限于 VR 与 视频动画制作。极少极少 BIM 团队会使用 Unity，不过个人感觉更应该是自己工作年限较低与交流讨论会参与过少局限了自己的视听。</p><p>当然这是我个人的博客，虽然 BIM 从业者使用 Unity 较少，但我仍然十分看好 Autodesk 与 Unity 的这次合作，这会对 Revit 软件 BIM 模型的预演交互产生极大的变化。同时 Unity 是一款出色的游戏引擎，其自身强大的物理引擎与脚本开发功能将会大幅提升 BIM 模型的仿真价值，搭配 Unity 的多平台发布功能，<br>将一定程度改变工程相关人员的交互方式。</p><p>现在如果想实现 Revit、Catia 等 BIM 软件模型与 Unity 的平滑导入，是可以采取一个更聪明的方法， 17 年 piXYZ 发布了两款针对 CAD 文件导入 Unity 的插件： piXYZPlugin 和 piXYZ studio。 今年 11 月 Tridify 发布了针对 IFC 文件的 Unity 导入插件： Tridify BIM Tools。 这两个公司的插件能较好的解决<br>很多文件导入的问题，且速度理想，可操作性较强，并都支持脚本开发。（今天不做深入分享）</p><p>就先写到这吧，每周都得写点东西，下次想更新时再更新本篇文章，不过如果你对上面部分内容感兴趣，可以留言，我将在接下来的分享针对具体情况做进一步分享。    </p>]]></content>
     
     <summary type="html">
     
-    </summary>
-    
-      <category term="test" scheme="http://cabancey.com/categories/test/"/>
-    
-    
-      <category term="test" scheme="http://cabancey.com/tags/test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://cabancey.com/2018/11/28/hello-world/"/>
-    <id>http://cabancey.com/2018/11/28/hello-world/</id>
-    <published>2018-11-28T08:49:17.735Z</published>
-    <updated>2018-11-28T08:49:17.735Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;h1 id=&quot;Unity-and-Revit&quot;&gt;&lt;a href=&quot;#Unity-and-Revit&quot; class=&quot;headerlink&quot; title=&quot;Unity and Revit&quot;&gt;&lt;/a&gt;Unity and Revit&lt;/h1&gt;&lt;h2 id=&quot;Unity-与-Autodesk：两者旗下软件深度合作提升互操作性&quot;&gt;&lt;a href=&quot;#Unity-与-Autodesk：两者旗下软件深度合作提升互操作性&quot; class=&quot;headerlink&quot; title=&quot;Unity 与 Autodesk：两者旗下软件深度合作提升互操作性&quot;&gt;&lt;/a&gt;Unity 与 Autodesk：两者旗下软件深度合作提升互操作性&lt;/h2&gt;&lt;p&gt;在今年11月上旬官方发出消息，Unity 将与 Autodesk 公司进行合作，实现 Revit 和 VRED 与 Unity 之间的数据互操作性，并在 Unity 内集成 Shotgun 模板管理功能。在 UNity 的官网可以看到此次合作的主要目标：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;实现BIM数据可视化。&lt;blockquote&gt;
+&lt;p&gt;将 Revit 和 3ds Max 模型光滑导入 Unity，提高模型传递效率以更快地发布交互式地 3D 内容，主要通过提升工程相关人员交互性从而加快决策制定并消除设计缺陷，提升建筑工程行业的效率。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
+      <category term="BIM" scheme="http://cabancey.com/categories/BIM/"/>
+    
+    
+      <category term="Unity" scheme="http://cabancey.com/tags/Unity/"/>
+    
+      <category term="Revit" scheme="http://cabancey.com/tags/Revit/"/>
     
   </entry>
   
