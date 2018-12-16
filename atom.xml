@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cabancey.com/"/>
-  <updated>2018-12-09T06:18:07.561Z</updated>
+  <updated>2018-12-16T14:47:54.164Z</updated>
   <id>http://cabancey.com/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个有趣的小试验</title>
+    <link href="http://cabancey.com/2018/12/16/%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E5%B0%8F%E8%AF%95%E9%AA%8C/"/>
+    <id>http://cabancey.com/2018/12/16/一个有趣的小试验/</id>
+    <published>2018-12-16T14:47:54.000Z</published>
+    <updated>2018-12-16T14:47:54.164Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Unity and Autodesk&#39;s Revit</title>
