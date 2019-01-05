@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cabancey.com/"/>
-  <updated>2018-12-31T13:53:39.458Z</updated>
+  <updated>2019-01-05T13:21:59.818Z</updated>
   <id>http://cabancey.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习C#泛型与链表以及IEnumerable接口</title>
+    <link href="http://cabancey.com/2019/01/05/%E5%AD%A6%E4%B9%A0C-%E6%B3%9B%E5%9E%8B%E4%B8%8E%E9%93%BE%E8%A1%A8%E4%BB%A5%E5%8F%8AIEnumerable%E6%8E%A5%E5%8F%A3/"/>
+    <id>http://cabancey.com/2019/01/05/学习C-泛型与链表以及IEnumerable接口/</id>
+    <published>2019-01-05T13:16:26.000Z</published>
+    <updated>2019-01-05T13:21:59.818Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="学习-C-泛型、链表、IEnumerable-接口"><a href="#学习-C-泛型、链表、IEnumerable-接口" class="headerlink" title="学习 C# 泛型、链表、IEnumerable 接口"></a>学习 C# 泛型、链表、IEnumerable 接口</h1><h2 id="学习-C-泛型"><a href="#学习-C-泛型" class="headerlink" title="学习 C# 泛型"></a>学习 C# 泛型</h2><p>今天一天做了啥，学习泛型，然后饱受折磨，在学习中发现这样那样的问题，又趁着机会学习了链表以及 IEnumerable 接口,目前还没被折磨完，泛型这章的学习还没完成，先打点字缓缓，接着学。就这样，找个机会再写学习笔记。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;学习-C-泛型、链表、IEnumerable-接口&quot;&gt;&lt;a href=&quot;#学习-C-泛型、链表、IEnumerable-接口&quot; class=&quot;headerlink&quot; title=&quot;学习 C# 泛型、链表、IEnumerable 接口&quot;&gt;&lt;/a&gt;学习 C# 泛型、链
+      
+    
+    </summary>
+    
+      <category term="Study" scheme="http://cabancey.com/categories/Study/"/>
+    
+    
+      <category term="C#" scheme="http://cabancey.com/tags/C/"/>
+    
+  </entry>
   
   <entry>
     <title>2019 is on the horizon</title>
