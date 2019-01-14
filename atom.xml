@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cabancey.com/"/>
-  <updated>2019-01-06T13:32:30.527Z</updated>
+  <updated>2019-01-14T16:08:12.210Z</updated>
   <id>http://cabancey.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每天的烦恼</title>
+    <link href="http://cabancey.com/2019/01/15/%E6%AF%8F%E5%A4%A9%E7%9A%84%E7%83%A6%E6%81%BC/"/>
+    <id>http://cabancey.com/2019/01/15/每天的烦恼/</id>
+    <published>2019-01-14T16:05:15.000Z</published>
+    <updated>2019-01-14T16:08:12.210Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="每天的烦恼"><a href="#每天的烦恼" class="headerlink" title="每天的烦恼"></a>每天的烦恼</h1><p>就是小区对面十字路口的烧烤摊，一到十二点就飘进来的气味，总是诱着人去买着吃，我现在又在纠结要不要去吃，呃，看来是得找个人管管了，我内心无限想下去吃。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;每天的烦恼&quot;&gt;&lt;a href=&quot;#每天的烦恼&quot; class=&quot;headerlink&quot; title=&quot;每天的烦恼&quot;&gt;&lt;/a&gt;每天的烦恼&lt;/h1&gt;&lt;p&gt;就是小区对面十字路口的烧烤摊，一到十二点就飘进来的气味，总是诱着人去买着吃，我现在又在纠结要不要去吃，呃，看来是得找
+      
+    
+    </summary>
+    
+      <category term="瞎写" scheme="http://cabancey.com/categories/%E7%9E%8E%E5%86%99/"/>
+    
+    
+      <category term="瞎写" scheme="http://cabancey.com/tags/%E7%9E%8E%E5%86%99/"/>
+    
+  </entry>
   
   <entry>
     <title>啃泛型结构</title>

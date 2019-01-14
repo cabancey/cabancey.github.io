@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[每天的烦恼]]></title>
+    <url>%2F2019%2F01%2F15%2F%E6%AF%8F%E5%A4%A9%E7%9A%84%E7%83%A6%E6%81%BC%2F</url>
+    <content type="text"><![CDATA[每天的烦恼就是小区对面十字路口的烧烤摊，一到十二点就飘进来的气味，总是诱着人去买着吃，我现在又在纠结要不要去吃，呃，看来是得找个人管管了，我内心无限想下去吃。]]></content>
+      <categories>
+        <category>瞎写</category>
+      </categories>
+      <tags>
+        <tag>瞎写</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[啃泛型结构]]></title>
     <url>%2F2019%2F01%2F06%2F%E5%95%83%E6%B3%9B%E5%9E%8B%E7%BB%93%E6%9E%84%2F</url>
     <content type="text"><![CDATA[学习泛型卡在泛型结构的示例标题就说明了一切，又有点啃不动了，泛型结构我大概懂是什么意思，但此刻书中的示例看着很苦，感觉得缓缓明天再啃了。今天主要研究协变和抗变以及泛型接口，泛型这章两天没啃完了，得努点力了。现在去看Unity，哈哈，调节一下。]]></content>
