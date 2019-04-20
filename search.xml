@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[好久没写了]]></title>
+    <url>%2F2019%2F04%2F21%2F%E5%A5%BD%E4%B9%85%E6%B2%A1%E5%86%99%E4%BA%86%2F</url>
+    <content type="text"><![CDATA[好久没写了最近比较忙，闲下来时除了打鼓就没想做正事，等五一后闲下来好好写一篇。]]></content>
+      <categories>
+        <category>瞎写</category>
+      </categories>
+      <tags>
+        <tag>瞎写</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[学习集合]]></title>
     <url>%2F2019%2F02%2F02%2F%E5%AD%A6%E4%B9%A0%E9%9B%86%E5%90%88%2F</url>
     <content type="text"><![CDATA[学习集合又过了一周了，上次上篇后就出去各种串门，与朋友玩得很是愉快。今天终于回家了，学了一天的C#，主要是集合这章，上次是遇到链表然后学习了下链表，感觉吃了点力，这次是在集合这章专门学习链表，书中的例子又让我吃了点力，花了蛮多时间。嗯，就这样，学习笔记在第二次学习时写。]]></content>
